@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "breathprotectionback", "count" : 1 },
+    { "item" : "liquidwater", "count" : 5 }
+  ],
+  "output" : { "item" : "pat_drowningepp", "count" : 1 },
+  "groups" : [ "craftinganvil", "hazardgear", "all" ]
+}
