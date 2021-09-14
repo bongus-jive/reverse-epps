@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "heatprotectionback", "count" : 1 },
+    { "item" : "coldprotectionback", "count" : 1 },
     { "item" : "solariumstar", "count" : 5 }
   ],
   "output" : { "item" : "pat_boilepp", "count" : 1 },
