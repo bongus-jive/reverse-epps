@@ -1,5 +1,5 @@
 {
-  "version" : "1.0",
+  "version" : "1.0.1",
   "author" : "particle",
   "description" : "adds an irradiation epp that emits death\n\nmake at anvil 2 with uranium and radiation epp\nsince uranium is actually unobtainable i made terramart sell it because i thought that would be funny\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img] https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img] https://www.patreon.com/pathiccstar",
   "name" : "pat_irradationepp",
