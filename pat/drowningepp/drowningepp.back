@@ -16,7 +16,11 @@
   "statusEffects": [
     {
       "stat": "breathRegenerationRate",
-      "effectiveMultiplier": -5
+      "effectiveMultiplier": -4
+    },
+    {
+      "stat": "breathProtection",
+      "effectiveMultiplier": 0
     }
   ],
 
