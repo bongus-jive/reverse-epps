@@ -3,10 +3,11 @@
   "price": 1000,
   "inventoryIcon": "icon.png",
   "tooltipKind": "baseaugment",
-  "rarity": "Essential",
+  "rarity": "Common",
   "category": "enviroProtectionPack",
+  "tooltipFields": { "subtitle": "Enviro Exposure Pack" },
   "description": "Thsi is ^red;refrifgeratior^reset;.",
-  "shortdescription": "Freezing EPP",
+  "shortdescription": "Freezing EEP",
 
   "maleFrames": "/pat/reverseEpps/freezing.png",
   "femaleFrames": "/pat/reverseEpps/freezing.png",

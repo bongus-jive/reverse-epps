@@ -3,10 +3,11 @@
   "price": 750,
   "inventoryIcon": "icon.png",
   "tooltipKind": "baseaugment",
-  "rarity": "Essential",
+  "rarity": "Common",
   "category": "enviroProtectionPack",
+  "tooltipFields": { "subtitle": "Enviro Exposure Pack" },
   "description": "Produces harmful radiation. Use it to ^red;get radiation poisoning and die^reset;.",
-  "shortdescription": "Irradiation EPP",
+  "shortdescription": "Irradiation EEP",
 
   "maleFrames": "/pat/reverseEpps/irradiation.png",
   "femaleFrames": "/pat/reverseEpps/irradiation.png",

@@ -3,10 +3,11 @@
   "price": 500,
   "inventoryIcon": "icon.png",
   "tooltipKind": "baseaugment",
-  "rarity": "Essential",
+  "rarity": "Common",
   "category": "enviroProtectionPack",
+  "tooltipFields": { "subtitle": "Enviro Exposure Pack" },
   "description": "Produces unbreathable water. Not helpful unless you want to ^red;fucking drown^reset;.",
-  "shortdescription": "Drowning EPP",
+  "shortdescription": "Drowning EEP",
 
   "maleFrames": "/pat/reverseEpps/drowning.png",
   "femaleFrames": "/pat/reverseEpps/drowning.png",
