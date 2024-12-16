@@ -1,8 +1,8 @@
 {
-  "input" : [
-    { "item" : "heatprotectionback", "count" : 1 },
-    { "item" : "icemachine", "count" : 5 }
+  "input": [
+    { "item": "heatprotectionback", "count": 1 },
+    { "item": "icemachine", "count": 5 }
   ],
-  "output" : { "item" : "pat_freezingepp", "count" : 1 },
-  "groups" : [ "craftinganvil3", "hazardgear", "all" ]
+  "output": { "item": "pat_freezingepp", "count": 1 },
+  "groups": [ "craftinganvil3", "hazardgear", "all" ]
 }

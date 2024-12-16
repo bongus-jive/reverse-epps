@@ -1,8 +1,8 @@
 {
-  "input" : [
-    { "item" : "radiationprotectionback", "count" : 1 },
-    { "item" : "uraniumrod", "count" : 5 }
+  "input": [
+    { "item": "radiationprotectionback", "count": 1 },
+    { "item": "uraniumrod", "count": 5 }
   ],
-  "output" : { "item" : "pat_irradiationepp", "count" : 1 },
-  "groups" : [ "craftinganvil2", "hazardgear", "all" ]
+  "output": { "item": "pat_irradiationepp", "count": 1 },
+  "groups": [ "craftinganvil2", "hazardgear", "all" ]
 }
