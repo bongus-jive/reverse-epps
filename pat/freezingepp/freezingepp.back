@@ -31,7 +31,6 @@
   ],
 
   "acceptsAugmentType": "back",
-  "radioMessagesOnPickup": [ "pickupepp" ],
 
   "colorOptions": [
     // BLUE
