@@ -8,8 +8,8 @@
   "description": "This EPP generates extreme heat. Useful to ^red;melt and also die^reset;.",
   "shortdescription": "Boiling EPP",
 
-  "maleFrames": "back.png",
-  "femaleFrames": "back.png",
+  "maleFrames": "/pat/reverseEpps/boil.png",
+  "femaleFrames": "/pat/reverseEpps/boil.png",
   "maxStack": 1,
 
   "statusEffects": [

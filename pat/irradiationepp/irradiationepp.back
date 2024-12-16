@@ -8,8 +8,8 @@
   "description": "Produces harmful radiation. Use it to ^red;get radiation poisoning and die^reset;.",
   "shortdescription": "Irradiation EPP",
 
-  "maleFrames": "back.png",
-  "femaleFrames": "back.png",
+  "maleFrames": "/pat/reverseEpps/irradiation.png",
+  "femaleFrames": "/pat/reverseEpps/irradiation.png",
   "maxStack": 1,
 
   "statusEffects": [

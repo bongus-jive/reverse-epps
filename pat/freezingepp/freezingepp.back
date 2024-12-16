@@ -8,8 +8,8 @@
   "description": "Thsi is ^red;refrifgeratior^reset;.",
   "shortdescription": "Freezing EPP",
 
-  "maleFrames": "back.png",
-  "femaleFrames": "back.png",
+  "maleFrames": "/pat/reverseEpps/freezing.png",
+  "femaleFrames": "/pat/reverseEpps/freezing.png",
   "maxStack": 1,
 
   "statusEffects": [

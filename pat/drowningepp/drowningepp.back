@@ -8,8 +8,8 @@
   "description": "Produces unbreathable water. Not helpful unless you want to ^red;fucking drown^reset;.",
   "shortdescription": "Drowning EPP",
 
-  "maleFrames": "back.png",
-  "femaleFrames": "back.png",
+  "maleFrames": "/pat/reverseEpps/drowning.png",
+  "femaleFrames": "/pat/reverseEpps/drowning.png",
   "maxStack": 1,
 
   "statusEffects": [
