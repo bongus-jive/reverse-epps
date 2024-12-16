@@ -1,5 +1,6 @@
 [ 
 	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{ "item":"pat_drowningepp" } },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{ "item":"pat_irradiationepp" } },
 	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{ "item":"pat_boilepp" } },
 	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{ "item":"pat_freezingepp" } }
 ]
