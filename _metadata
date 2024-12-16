@@ -1,0 +1,11 @@
+{
+  "author" : "patman",
+  "description" : "adds reverse EPPs that hurt you",
+  "friendlyName" : "reverse EPPs",
+  "link" : "steam://url/CommunityFilePage/2599548546",
+  "name" : "pat_reverseEPPs",
+  "steamContentId" : "2599548546",
+  "steamDescription" : "adds reverse epps that hurt you\n\nDrowning EPP:\n- drowns you\n- make at t1 anvil with water and a breathing EPP\n\nIrradiation EPP:\n- irradiates you\n- make at t2 anvil with uranium and a radiation EPP\n- uranium is unobtainable in vanilla so i made Terramart sell it bc i thought itd be funny\n\nBoiling EPP:\n- boils you\n- make at t3 anvil with solarium and a heating EPP\n\nFreezing EPP:\n- freezes you\n- make at t3 anvil with 5 ice machines and a cooling EPP\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/reverse-epps",
+  "tags" : "Miscellaneous|In-Game Tools|Armor and Clothes",
+  "version" : "1.0"
+}
