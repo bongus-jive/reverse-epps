@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "coldprotectionback", "count" : 1 },
+    { "item" : "solariumstar", "count" : 5 }
+  ],
+  "output" : { "item" : "pat_boilepp", "count" : 1 },
+  "groups" : [ "craftinganvil3", "hazardgear", "all" ]
+}
